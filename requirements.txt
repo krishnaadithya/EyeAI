@@ -1,0 +1,11 @@
+Werkzeug
+Flask
+numpy
+gevent
+pillow
+h5py
+ptorch
+fastai
+efficientnet_pytorch
+segmentation_models_pytorch
+
