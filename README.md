@@ -22,4 +22,5 @@ https://drive.google.com/drive/folders/16QeNqvAPyI2i2m0-oI5OSiSH2lskK61S?usp=sha
 
 
 
-![Sreenshot](https://github.com/krishnaadithya/EyeAI/Screenshot.png)
+![Sreenshot](https://octodex.github.com/krishnaadithya/EyeAI/Screenshot.png)
+<img src="https://octodex.github.com/krishnaadithya/EyeAI/Screenshot.png">
