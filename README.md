@@ -22,6 +22,4 @@ https://drive.google.com/drive/folders/16QeNqvAPyI2i2m0-oI5OSiSH2lskK61S?usp=sha
 
 
 
-Screenshot:
-
-![Alt text](screenshot.jpg?raw=true)
+![Sreenshot](https://github.com/krishnaadithya/EyeAI/Screenshot.png)
