@@ -46,7 +46,7 @@ $(document).ready(function () {
                 $('.loader').hide();
                 $('#result').fadeIn(600);
                 $('#result').text(' Result:  ' + data);
-		$('#newimage').html("<img src='"+"0a4e1a29ffff.png"+"'/>");
+		$('#suggestion').text(' Suggestion:  ' + data['suggestion']);
                 console.log(data);
             },
         });
