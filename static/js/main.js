@@ -45,8 +45,9 @@ $(document).ready(function () {
                 // Get and display the result
                 $('.loader').hide();
                 $('#result').fadeIn(600);
-                $('#result').text(' Result:  ' + data);
-		$('#suggestion').text(' Suggestion:  ' + data['suggestion']);
+                $('#result').text(' Result:  ' + data.result);
+		        $('#suggestion').text(' Suggestion:  ' + data.suggestion);
+                $('#imageOutput').html('<img src=' + data.out_img + ' alt="Cup_Disk_Mask">');
                 console.log(data);
             },
         });
