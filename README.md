@@ -1,8 +1,8 @@
 # EyeAI
-Detect leadning causes of blindness with a AI
+Detect leading causes of blindness with a AI
 
 
-**The Web app part is from this github page https://github.com/mtobeiyf/keras-flask-deploy-webapp** 
+**The Web app part is from this GitHub page https://github.com/mtobeiyf/keras-flask-deploy-webapp** 
 
 Please refer to that for setting up the the webapp. \*
 
